@@ -1,0 +1,4 @@
+django>=3.2
+django-dotenv # Package for django to read environment variables
+gunicorn
+psycorg2-binary
