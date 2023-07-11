@@ -1,4 +1,4 @@
-#!/home/liverly/Documents/Projects/djproject/bin/python
+#!/home/liverly/Documents/Projects/djproject/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
